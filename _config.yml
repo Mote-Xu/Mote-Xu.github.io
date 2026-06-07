@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Mote's Log
+subtitle: 在混沌与秩序之间，建立健康秩序以滋养生命
+description: 微尘的个人日志 — 关于成长、选择与真实
+keywords: Mote, 微尘, 个人博客, 成长记录
+author: Mote
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://mote-xu.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Haoze-Xu/Haoze-Xu.github.io.git
+  repo: git@github.com:Mote-Xu/Mote-Xu.github.io.git
   branch: main
